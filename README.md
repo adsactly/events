@@ -1,3 +1,3 @@
 # events
 For all relevant events/meetings 
-https://github.com/cyberFund/events/projects/1
+- [Events] (https://github.com/cyberFund/events/projects/1)
