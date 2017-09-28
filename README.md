@@ -9,4 +9,3 @@
 
 # cyber•Con
 
-This repository should be maintened in a way to become open once token mechanism will be established
